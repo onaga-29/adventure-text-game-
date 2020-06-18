@@ -19,12 +19,6 @@ rooms={
 'room-2029':{'down':'dark-room','item':'key'}
 }
 
-# print("Here is the map:")
-# #print("|\n"*2,"___"*3)
-# print("+\n"*5,end=' ')
-# print("+"*10)
-# print()
-
 
 while True:
 	printCurrentSitution()
